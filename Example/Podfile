@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MNLabel_Example' do
+  pod 'MNLabel', :path => '../'
+
+  target 'MNLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
