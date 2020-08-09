@@ -1,0 +1,6 @@
+framework module MNLabel {
+  umbrella header "MNLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MNLabel (0.1.0)
+
+DEPENDENCIES:
+  - MNLabel (from `../`)
+
+EXTERNAL SOURCES:
+  MNLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MNLabel: 59d47de2c6ef74c6087d9222199a8e339ac27465
+
+PODFILE CHECKSUM: 2124386dcecdcb87ba5aa451cb26d95d600e1a13
+
+COCOAPODS: 1.9.3
